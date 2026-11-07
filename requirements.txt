@@ -1,0 +1,9 @@
+# Tested with Python 3.13, PySpark 3.5.3 (Java 21), pandas 3.0.5, Streamlit, Plotly, matplotlib 3.11.2
+pyspark>=3.5,<4          # needs Java 17+ (only for notebooks/01_spark_etl.ipynb)
+pandas>=2.1
+numpy>=1.26
+matplotlib>=3.8
+plotly>=5.20
+streamlit>=1.35
+mysql-connector-python>=9.0   # optional: only for NETFLIX_SOURCE=mysql
+jupyterlab>=4.0
