@@ -102,7 +102,7 @@ netflix-content-strategy-analytics/
 
 - **Dataset:** *Netflix Movies and TV Shows* (Shivam Bansal, Kaggle), first-stage cleaned in upGrad coursework (`clean_netflix.csv`). See the Kaggle page for licence terms. Netflix is a trademark of Netflix, Inc.; this is an independent educational analysis.
 - The pipeline, SQL, dashboard and analysis in this repository are my own implementation. They extend an upGrad content-strategy exercise; its solution files are not reproduced here.
-- Completed as part of the MS in Artificial Intelligence (Liverpool John Moores University, delivered via upGrad).
+- Coursework completed during my MS in Artificial Intelligence (Liverpool John Moores University, delivered via upGrad); published to GitHub in November 2026.
 
 ## Licence
 
